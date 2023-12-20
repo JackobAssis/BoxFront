@@ -1,0 +1,11 @@
+{
+  "cSpell.words": [
+    "descricao",
+    "knexfile",
+    "observacao",
+    "postgresql",
+    "usuario",
+    "usuarios"
+  ],
+  "typescript.tsdk": "node_modules\\typescript\\lib"
+}
